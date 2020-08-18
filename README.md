@@ -15,10 +15,10 @@ echarts社区地址： https://gallery.echartsjs.com/editor.html?c=xz3jGj90ns
 
 航线图echarts社区地址：https://gallery.echartsjs.com/editor.html?c=x0-ExSkZDM
 
---npm install   
+npm install   
 
---cd EchartsMap
+进入项目
 
---npm run dev
+npm run dev
 
 
